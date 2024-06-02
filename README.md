@@ -2,6 +2,7 @@ TUGAS BESAR - CII1F4 ALGORITMA PEMROGRAMAN
 SEMESTER GENAP 2023/2024, FAKULTAS INFORMATIKA
 
 11. Aplikasi Perpustakaan
+
 Deskripsi: Aplikasi ini digunakan oleh admin perpustakaan untuk mencatat buku-buku
 yang akan dipinjam, tanggal peminjaman, tanggal pengembalian serta denda apabila
 melewati batas waktu.
